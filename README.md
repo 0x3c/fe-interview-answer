@@ -12,3 +12,7 @@
   - [html][html的元素有哪些（包含h5）?](docs/day02/README.md)
   - [css][css3有哪些新增的特性?](docs/day02/README.md)
   - [js][写一个方法去掉字符串中的空格](docs/day02/README.md)
+- [day03](docs/day03/README.md)
+  - [html][html 全局属性(global attribute)有哪些（包含 h5）?](docs/day03/README.md)
+  - [css][在页面上隐藏元素的方法有哪些?](docs/day03/README.md)
+  - [js][去除字符串中最后一个指定的字符?](docs/day03/README.md)
