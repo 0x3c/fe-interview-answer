@@ -20,3 +20,7 @@
   - [html][html5的文件离线储存怎么使用，工作原理是什么?](docs/day04/README.md)
   - [css][css选择器有哪些？哪些属性可以继承?](docs/day04/README.md)
   - [js][写一个方法把下划线命名转成大驼峰命名](docs/day04/README.md)
+- [day05](docs/day05/README.md)
+  - [html][简述超链接 target 属性的取值和作用](docs/day05/README.md)
+  - [css][css3 新增伪类有哪些并简要描述](docs/day05/README.md)
+  - [js][写一个把字符串大小写切换的方法](docs/day05/README.md)
