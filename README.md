@@ -24,3 +24,7 @@
   - [html][简述超链接 target 属性的取值和作用](docs/day05/README.md)
   - [css][css3 新增伪类有哪些并简要描述](docs/day05/README.md)
   - [js][写一个把字符串大小写切换的方法](docs/day05/README.md)
+- [day06](docs/day06/README.md)
+  - [html][label 都有哪些作用？并举相应的例子说明](docs/day06/README.md)
+  - [css][用 css 创建一个三角形，并简述原理](docs/day06/README.md)
+  - [js][写一个去除制表符和换行符的方法](docs/day06/README.md)
