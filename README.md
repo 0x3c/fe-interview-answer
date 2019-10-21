@@ -32,3 +32,7 @@
   - [html][iframe框架都有哪些优缺点?](docs/day07/README.md)
   - [css][简述你对bfc规范的理解](docs/day07/README.md)
   - [js][统计某一字符或字符串在另一个字符串中出现的次数](docs/day07/README.md)
+- [day08](docs/day08/README.md)
+  - [html][简述下html5的离线储存原理，同时说明如何使用?](docs/day08/README.md)
+  - [css][清除浮动的方式有哪些及优缺点?](docs/day08/README.md)
+  - [js][写一个加密字符串的方法](docs/day08/README.md)
