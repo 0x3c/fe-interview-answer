@@ -36,3 +36,7 @@
   - [html][简述下html5的离线储存原理，同时说明如何使用?](docs/day08/README.md)
   - [css][清除浮动的方式有哪些及优缺点?](docs/day08/README.md)
   - [js][写一个加密字符串的方法](docs/day08/README.md)
+- [day09](docs/day09/README.md)
+  - [html][浏览器内多个标签页之间的通信方式有哪些?](docs/day09/README.md)
+  - [css][简述下你理解的优雅降级和渐进增强](docs/day09/README.md)
+  - [js][写一个判断数据类型的方法](docs/day09/README.md)
