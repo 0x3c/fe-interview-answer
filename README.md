@@ -48,3 +48,8 @@
   - [html][你对标签语义化的理解是什么?](docs/day11/README.md)
   - [css][css常用的布局方式有哪些?](docs/day11/README.md)
   - [js][简要描述下js有哪些内置的对象](docs/day11/README.md)
+- [day12](docs/day12/README.md)
+  - [html][常见的浏览器内核都有哪些？并介绍下你对内核的理解](docs/day12/README.md)
+  - [css][说说你对 css 盒子模型的理解](docs/day12/README.md)
+  - [js][写一个获取当前 url 查询字符串中的参数的方法](docs/day12/README.md)
+  - [js][网页应用从服务器主动推送到客户端有那些方式?](docs/day12/README.md)
