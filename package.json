@@ -5,6 +5,7 @@
     "prettier": "^1.18.2"
   },
   "scripts": {
-    "create": "node scripts/createFile"
+    "create": "node scripts/createFile",
+    "summary": "node scripts/summary"
   }
 }

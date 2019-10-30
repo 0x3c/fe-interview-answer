@@ -1,8 +1,7 @@
 const fetch = require("node-fetch");
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
-
-const url = `https://github.com/haizlin/fe-interview/blob/master/category/history.md`;
+const { url } = require("./env");
 
 /**
  *
@@ -12,7 +11,6 @@ const url = `https://github.com/haizlin/fe-interview/blob/master/category/histor
 const fetchHtml = url => fetch(url).then(res => res.text());
 
 /**
- *
  * @param {string} html
  * @return {string[]}
  */
@@ -22,19 +20,18 @@ const parseHtml2DailyItemText = html => {
   const textList = textContent.getElementsByTagName("ul")[0].textContent;
   const strlist = textList
     .replace(/\n(?!.)/g, "")
-    .split(/\n(?=第\d+天)/g)
+    .split(/\n(?=第\s*\d+\s*天)/g)
     .filter(str => !!str);
   return strlist;
 };
 
 /**
- *
  * @param {string} itemText
  */
 const convert2DailyItem = itemText => {
   const list = itemText.split(/\n(?=\[.+\])/g);
   const time = list[0];
-  const dayNo = time.match(/\d+(?=天)/)[0];
+  const dayNo = time.match(/\d+(?=\s*天)/)[0];
   const date = time.match(/\d+\.\d+\.\d+/)[0];
   const itemList = list.slice(1);
 
