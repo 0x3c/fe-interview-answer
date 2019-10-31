@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day15](docs/15/README.md)
+  - [[html] title 与 h1 的区别、b 与 strong 的区别、i 与 em 的区别？](docs/15/README.md)
+  - [[css] style 标签写在 body 前和 body 后的区别是什么？](docs/15/README.md)
+  - [[js] 写一个数组去重的方法（支持多维数组）](docs/15/README.md)
+  - [[软技能] 对于加班你是怎么看的？](docs/15/README.md)
 - [day14](docs/14/README.md)
   - [[html] 为什么 HTML5 只需要写<!DOCTYPE HTML>就可以？](docs/14/README.md)
   - [[css] position:fixed;在 ios 下无效该怎么办？](docs/14/README.md)
