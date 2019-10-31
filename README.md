@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day14](docs/14/README.md)
+  - [[html] 为什么 HTML5 只需要写<!DOCTYPE HTML>就可以？](docs/14/README.md)
+  - [[css] position:fixed;在 ios 下无效该怎么办？](docs/14/README.md)
+  - [[js] 什么是闭包？优缺点分别是什么？](docs/14/README.md)
+  - [[软技能] 你最喜欢用哪些编辑器？喜欢它的理由是什么？](docs/14/README.md)
 - [day13](docs/13/README.md)
   - [[html] html5 中的 form 怎么关闭自动完成？](docs/13/README.md)
   - [[css] ::before 和:after 中单冒号和双冒号的区别是什么，这两个伪元素有什么作用？](docs/13/README.md)
