@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day17](docs/day17/README.md)
+  - [[html] 你认为 table 的作用和优缺点是什么呢？](docs/day17/README.md)
+  - [[css] 解释下 CSS sprites 的原理和优缺点分别是什么？](docs/day17/README.md)
+  - [[js] typeof('abc')和 typeof 'abc'都是 string, 那么 typeof 是操作符还是函数？](docs/day17/README.md)
+  - [[软技能] 说说你对 SVN 和 GIT 的理解和区别](docs/day17/README.md)
 - [day16](docs/day16/README.md)
   - [[html] 元素的 alt 和 title 有什么区别？](docs/day16/README.md)
   - [[css] 请描述 margin 边界叠加是什么及解决方案](docs/day16/README.md)
