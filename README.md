@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day16](docs/16/README.md)
+  - [[html] 元素的 alt 和 title 有什么区别？](docs/16/README.md)
+  - [[css] 请描述 margin 边界叠加是什么及解决方案](docs/16/README.md)
+  - [[js] 返回到顶部的方法有哪些？把其中一个方法出来](docs/16/README.md)
+  - [[软技能] 你在的公司有没有做代码审查（CodeReview）？如果有是怎么做的？如果没有你觉得应该怎么做才更好？](docs/16/README.md)
 - [day15](docs/15/README.md)
   - [[html] title 与 h1 的区别、b 与 strong 的区别、i 与 em 的区别？](docs/15/README.md)
   - [[css] style 标签写在 body 前和 body 后的区别是什么？](docs/15/README.md)
