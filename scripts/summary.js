@@ -25,7 +25,7 @@ class DailyInterviewQuestion {
     this.css = css;
     this.js = js;
     this.skill = skill;
-    this.relativePath = `${dailyDirName}/${this.interval}/README.md`;
+    this.relativePath = `${dailyDirName}/day${this.interval}/README.md`;
   }
   toMD() {
     let str = "";
