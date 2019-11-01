@@ -26,7 +26,7 @@ const create = async no => {
   const map = await getDailyHub();
   const list = map[no].children;
   const strs = list.reduce((text, item) => {
-    const str = `### ${item.title}\n`;
+    const str = `## ${item.title}\n`;
     text += str;
     if (item.content) {
       text += `\`\`\`

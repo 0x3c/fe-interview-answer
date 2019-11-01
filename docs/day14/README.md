@@ -1,8 +1,8 @@
-### [html] 为什么 HTML5 只需要写<!DOCTYPE HTML>就可以？
+## [html] 为什么 HTML5 只需要写<!DOCTYPE HTML>就可以？
 
 HTML5 之前基于 SGML, SGML 需要指定 DTD 解析文档, 可通过`<!DOCTYPE>`指定要使用的 DTD, 若不写则会进入怪异模式; HTML5 不基于 SGML, 不需要指明 DTD, 其`<!DOCTYPE>`只有一种: `<!DOCTYPE html>`.
 
-### [css] position:fixed;在 ios 下无效该怎么办？
+## [css] position:fixed;在 ios 下无效该怎么办？
 
 避免外层容器滚动, 让滚动发生在内部容器中.
 
@@ -31,7 +31,7 @@ HTML5 之前基于 SGML, SGML 需要指定 DTD 解析文档, 可通过`<!DOCTYPE
 </body>
 ```
 
-### [js] 什么是闭包？优缺点分别是什么？
+## [js] 什么是闭包？优缺点分别是什么？
 
 当函数可以记住并访问所在词法作用域。
 
@@ -43,7 +43,7 @@ HTML5 之前基于 SGML, SGML 需要指定 DTD 解析文档, 可通过`<!DOCTYPE
 
 - 闭包在处理速度和内存消耗方面对脚本性能有负面影响
 
-### [软技能] 你最喜欢用哪些编辑器？喜欢它的理由是什么？
+## [软技能] 你最喜欢用哪些编辑器？喜欢它的理由是什么？
 
 VSCode
 
