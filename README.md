@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day18](docs/day18/README.md)
+  - [[html] 怎样在页面上实现一个圆形的可点击区域？](docs/day18/README.md)
+  - [[css] 什么是 FOUC？你是如何避免 FOUC 的？](docs/day18/README.md)
+  - [[js] 你理解的"use strict";是什么?使用它有什么优缺点？](docs/day18/README.md)
+  - [[软技能] 你如何看待团建的？你们团建一般都怎么实施？](docs/day18/README.md)
 - [day17](docs/day17/README.md)
   - [[html] 你认为 table 的作用和优缺点是什么呢？](docs/day17/README.md)
   - [[css] 解释下 CSS sprites 的原理和优缺点分别是什么？](docs/day17/README.md)
