@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day19](docs/day19/README.md)
+  - [[html] 说说你对 html 中的置换元素和非置换元素的理解](docs/day19/README.md)
+  - [[css] css 的属性 content 有什么作用呢？有哪些场景可以用到？](docs/day19/README.md)
+  - [[js] "attribute"和"property"有什么不同？](docs/day19/README.md)
+  - [[软技能] 最近都流行些什么？你经常会浏览哪些网站？](docs/day19/README.md)
 - [day18](docs/day18/README.md)
   - [[html] 怎样在页面上实现一个圆形的可点击区域？](docs/day18/README.md)
   - [[css] 什么是 FOUC？你是如何避免 FOUC 的？](docs/day18/README.md)
