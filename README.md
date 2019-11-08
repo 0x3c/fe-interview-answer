@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day20](docs/day20/README.md)
+  - [[html] 请描述 HTML 元素的显示优先级](docs/day20/README.md)
+  - [[css] 要让 Chrome 支持小于 12px 的文字怎么做？](docs/day20/README.md)
+  - [[js] 写一个验证身份证号的方法](docs/day20/README.md)
+  - [[软技能] 你会手写原生 js 代码吗？](docs/day20/README.md)
 - [day19](docs/day19/README.md)
   - [[html] 说说你对 html 中的置换元素和非置换元素的理解](docs/day19/README.md)
   - [[css] css 的属性 content 有什么作用呢？有哪些场景可以用到？](docs/day19/README.md)
