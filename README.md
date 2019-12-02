@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day21](docs/day21/README.md)
+  - [[html] 谈谈你对 input 元素中 readonly 和 disabled 属性的理解](docs/day21/README.md)
+  - [[css] 说说你对 line-height 是如何理解的？](docs/day21/README.md)
+  - [[js] 写一个方法验证是否为中文](docs/day21/README.md)
+  - [[软技能] 来说说你对重绘和重排的理解，以及如何优化？](docs/day21/README.md)
 - [day20](docs/day20/README.md)
   - [[html] 请描述 HTML 元素的显示优先级](docs/day20/README.md)
   - [[css] 要让 Chrome 支持小于 12px 的文字怎么做？](docs/day20/README.md)
