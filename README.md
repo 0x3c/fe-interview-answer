@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day22](docs/day22/README.md)
+  - [[html] js 放在 html 的<body>和<head>有什么区别？](docs/day22/README.md)
+  - [[css] 说说浏览器解析 CSS 选择器的过程？](docs/day22/README.md)
+  - [[js] 你对 new 操作符的理解是什么？手动实现一个 new 方法](docs/day22/README.md)
+  - [[软技能] 前端工程师这个职位你是怎么样理解的？聊聊它的前景？](docs/day22/README.md)
 - [day21](docs/day21/README.md)
   - [[html] 谈谈你对 input 元素中 readonly 和 disabled 属性的理解](docs/day21/README.md)
   - [[css] 说说你对 line-height 是如何理解的？](docs/day21/README.md)
