@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day23](docs/day23/README.md)
+  - [[html] 关于<form>标签的 enctype 属性你有哪些了解？](docs/day23/README.md)
+  - [[css] 说说 CSS 的优先级是如何计算的？](docs/day23/README.md)
+  - [[js] 0.1 + 0.2、0.1 + 0.3 和 0.1 \* 0.2 分别等于多少？并解释下为什么？](docs/day23/README.md)
+  - [[软技能] 说说一件或几件（介绍下除了工作外）你觉得能为你面试加分的事](docs/day23/README.md)
 - [day22](docs/day22/README.md)
   - [[html] js 放在 html 的<body>和<head>有什么区别？](docs/day22/README.md)
   - [[css] 说说浏览器解析 CSS 选择器的过程？](docs/day22/README.md)
