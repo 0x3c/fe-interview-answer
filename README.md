@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day24](docs/day24/README.md)
+  - [[html] 说说你对属性 data-的理解](docs/day24/README.md)
+  - [[css] 你有用过 CSS 预处理器吗？喜欢用哪个？原理是什么？](docs/day24/README.md)
+  - [[js] 如何快速让一个数组乱序，写出来](docs/day24/README.md)
+  - [[软技能] 你经历过老板要求兼容 IE 吗？IE 几？有什么感悟？](docs/day24/README.md)
 - [day23](docs/day23/README.md)
   - [[html] 关于<form>标签的 enctype 属性你有哪些了解？](docs/day23/README.md)
   - [[css] 说说 CSS 的优先级是如何计算的？](docs/day23/README.md)
