@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day25](docs/day25/README.md)
+  - [[html] 请说说<script>、<script async>和<script defer>的区别](docs/day25/README.md)
+  - [[css] 在页面中的应该使用奇数还是偶数的字体？为什么呢？](docs/day25/README.md)
+  - [[js] 写一个判断设备来源的方法](docs/day25/README.md)
+  - [[软技能] 说说你工作中遇到过比较难的技术问题是什么？是如何解决的？](docs/day25/README.md)
 - [day24](docs/day24/README.md)
   - [[html] 说说你对属性 data-的理解](docs/day24/README.md)
   - [[css] 你有用过 CSS 预处理器吗？喜欢用哪个？原理是什么？](docs/day24/README.md)
