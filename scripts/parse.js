@@ -37,7 +37,10 @@ const convert2DailyItem = itemText => {
 
   const children = itemList.map(itemText => {
     const itemInfoList = itemText.split("\n");
-    const title = itemInfoList[0];
+    const title = itemInfoList[0].replace(
+      /(\<\w+ ?\w+>)/gi,
+      x => "`" + x + "`"
+    );
     const content = itemInfoList.slice(1).join("\n");
     return { title, content };
   });
