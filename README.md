@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day27](docs/day27/README.md)
+  - [[html] 说说你对影子(Shadow)DOM 的了解](docs/day27/README.md)
+  - [[css] 怎样修改 chrome 记住密码后自动填充表单的黄色背景？](docs/day27/README.md)
+  - [[js] 说说你对 arguments 的理解，它是数组吗？](docs/day27/README.md)
+  - [[软技能] 你为什么离职呢？](docs/day27/README.md)
 - [day26](docs/day26/README.md)
   - [[html] 解释下你对 GBK 和 UTF-8 的理解？并说说页面上产生乱码的可能原因](docs/day26/README.md)
   - [[css] 说说你对 z-index 的理解](docs/day26/README.md)
