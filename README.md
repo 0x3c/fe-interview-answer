@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day28](docs/day28/README.md)
+  - [[html] 说说你对`<meta>`标签的理解](docs/day28/README.md)
+  - [[css] rgba()和 opacity 这两个的透明效果有什么区别呢？](docs/day28/README.md)
+  - [[js] 解释下这段代码的意思！](docs/day28/README.md)
+  - [[软技能] 在浏览器中输入 url 到页面显示出来的过程发生了什么？](docs/day28/README.md)
 - [day27](docs/day27/README.md)
   - [[html] 说说你对影子(Shadow)DOM 的了解](docs/day27/README.md)
   - [[css] 怎样修改 chrome 记住密码后自动填充表单的黄色背景？](docs/day27/README.md)
