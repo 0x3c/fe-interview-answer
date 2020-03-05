@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day29](docs/day29/README.md)
+  - [[html] 你了解什么是无障碍 web（WAI）吗？在开发过程中要怎么做呢？](docs/day29/README.md)
+  - [[css] 请描述 css 的权重计算规则](docs/day29/README.md)
+  - [[js] 写一个获取数组的最大值、最小值的方法](docs/day29/README.md)
+  - [[软技能] 在工作中能让你最有成就感的是什么？并介绍下你最得意的作品吧](docs/day29/README.md)
 - [day28](docs/day28/README.md)
   - [[html] 说说你对`<meta>`标签的理解](docs/day28/README.md)
   - [[css] rgba()和 opacity 这两个的透明效果有什么区别呢？](docs/day28/README.md)
