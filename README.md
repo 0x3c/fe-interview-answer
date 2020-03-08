@@ -4,6 +4,11 @@
 
 ### 已完成
 
+- [day30](docs/day30/README.md)
+  - [[html] 网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些](docs/day30/README.md)
+  - [[css] 描述下你所了解的图片格式及使用场景](docs/day30/README.md)
+  - [[js] 写一个方法判断字符串是否为回文字符串](docs/day30/README.md)
+  - [[软技能] 解释下 CRLF 是什么？](docs/day30/README.md)
 - [day29](docs/day29/README.md)
   - [[html] 你了解什么是无障碍 web（WAI）吗？在开发过程中要怎么做呢？](docs/day29/README.md)
   - [[css] 请描述 css 的权重计算规则](docs/day29/README.md)
@@ -107,7 +112,7 @@
   - [[css] 简述下你理解的优雅降级和渐进增强](docs/day09/README.md)
   - [[js] 写一个判断数据类型的方法](docs/day09/README.md)
 - [day08](docs/day08/README.md)
-  - [[html] 简述下 html5 的离线储存原理，同时说明如何使用？](docs/day08/README.md)
+  - [[html] 简述下 html5 的离线存储原理，同时说明如何使用？](docs/day08/README.md)
   - [[css] 清除浮动的方式有哪些及优缺点？](docs/day08/README.md)
   - [[js] 写一个加密字符串的方法](docs/day08/README.md)
 - [day07](docs/day07/README.md)
@@ -123,7 +128,7 @@
   - [[css] CSS3 新增伪类有哪些并简要描述](docs/day05/README.md)
   - [[js] 写一个把字符串大小写切换的方法](docs/day05/README.md)
 - [day04](docs/day04/README.md)
-  - [[html] HTML5 的文件离线储存怎么使用，工作原理是什么？](docs/day04/README.md)
+  - [[html] HTML5 的文件离线存储怎么使用，工作原理是什么？](docs/day04/README.md)
   - [[css] CSS 选择器有哪些？哪些属性可以继承？](docs/day04/README.md)
   - [[js] 写一个方法把下划线命名转成大驼峰命名](docs/day04/README.md)
 - [day03](docs/day03/README.md)
